@@ -1,24 +1,8 @@
-# practice_vue_plugin
+# Vue plugin DEMO
+URL: https://tzynwang.github.io/vue-plugin-demo-HIGGS/
 
-## Project setup
-```
-npm install
-```
+## Description
+- Customized plugin source codes are in the file: `src/utils/plugin.js`
+- Open the browser and its devtool (e.g. press F12 for launching Chrome's devtool), switch to the console tab to view the components mounting logs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![demo screenshot](./docs/screenshot.png)
